@@ -1,0 +1,5 @@
+print("My name is Aaroh Gokhale")
+print("My favorite color is red.")
+print("My favorite song is Fun, Fun, Fun.")
+print("My favorite tv program is Star Trek.")
+print("My favorite food is turkey.")
